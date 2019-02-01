@@ -1,0 +1,21 @@
+{
+  "name": "脚本执行",
+  "name_en": "ExecScript",
+  "main": "index.js",
+  "icon": "hashtag",
+  "version": "0.1",
+  "description": "执行自定义代码",
+  "description_en": "execute custom script code.",
+  "author": {
+    "name": "scanf",
+    "email": "scanf@scanfsec.com"
+  },
+  "category": "辅助工具",
+  "category_en": "Support",
+  "multiple": true,
+  "scripts": [
+    "php",
+    "asp",
+    "aspx"
+  ]
+}
